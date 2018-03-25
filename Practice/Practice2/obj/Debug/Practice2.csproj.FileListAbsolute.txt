@@ -1,0 +1,6 @@
+E:\1Универ\САОД\Practice2\Practice2\bin\Debug\Practice2.exe.config
+E:\1Универ\САОД\Practice2\Practice2\bin\Debug\Practice2.exe
+E:\1Универ\САОД\Practice2\Practice2\bin\Debug\Practice2.pdb
+E:\1Универ\САОД\Practice2\Practice2\obj\Debug\Practice2.csprojResolveAssemblyReference.cache
+E:\1Универ\САОД\Practice2\Practice2\obj\Debug\Practice2.exe
+E:\1Универ\САОД\Practice2\Practice2\obj\Debug\Practice2.pdb
