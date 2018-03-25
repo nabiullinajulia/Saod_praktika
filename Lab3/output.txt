@@ -1,0 +1,5 @@
+Bit;The smallest unit of information in a digital computer that accepts 0 or 1
+Byte;A group of eight bits considered as a whole when storing data
+Adapter;Computer communication device with peripheral devices
+Algorythm;Sequence of actions to get the solution of the problem in a finite number of steps
+Vvod;The reading of information from an external device into computer memory
